@@ -82,6 +82,7 @@ print(df_from_csv)
 
 ![q7](https://github.com/user-attachments/assets/507d1a79-9fbe-4d55-b9de-b3b2b6ee2492)
 
+![q7_1](https://github.com/user-attachments/assets/8193f3ed-8526-46ff-a1ba-e4ec1d4c80c7)
 
 
 
